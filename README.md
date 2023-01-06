@@ -1,9 +1,16 @@
 # pix-2
 Hello !
 
-Pix app  is simple app without fancy  user interface in this app  you can get images from internet and search with text whatever you want.
+Pix app  is simple app without fancy  user interface. 
+In this app  you can get images from internet and search with text whatever you want.
 
-In this app i stick with  MVVM architecture and use navigation controllers, table views, prototype cells, search bar controller and REST API.
+Made with
+* MVVM architecture 
+* Navigation Controllers
+* Table Views
+* Prototype Cells
+* Search Bar Controller 
+* Flicker API
 
 You can find the small preview of my app below.
 
