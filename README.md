@@ -5,6 +5,8 @@ Pix app  is simple app without fancy  user interface.
 In this app  you can get images from internet and search with text whatever you want.
 
 Made with
+
+* UIKit
 * MVVM architecture 
 * Navigation Controllers
 * Table Views
